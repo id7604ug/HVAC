@@ -15,7 +15,6 @@ public class HVAC {
 
     private static Scanner scanner;   //Global scanner used for all input
 
-
     public static void main(String[] args) {
 
         //Use todayServiceCalls as a Queue
